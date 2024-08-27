@@ -1,0 +1,336 @@
+Object,Room,Answer
+towel,bathroom,1
+dresser,dining room,1
+chair,living room,1
+picture,kitchen,1
+appliance,laundryroom,1
+books,lounge,1
+bookcase,hallway,1
+counter,bathroom,1
+bookcase,stairs,1
+window,garage,1
+dresser,living room,1
+whiteboard,dining room,1
+board,workout/gym/exercise,1
+bookcase,workout/gym/exercise,1
+chair,dining room,1
+toilet,toilet,1
+bed,living room,1
+bathtub,toilet,1
+nightstand,bedroom,1
+bed,dining room,1
+whiteboard,living room,1
+window,hallway,1
+sofa,living room,1
+counter,dining room,1
+towel,office,1
+toilet,lounge,1
+curtain,garage,1
+bathtub,lounge,1
+chair,closet,1
+cabinet,utilityroom,1
+bookcase,garage,1
+bookcase,bathroom,1
+plant,workout/gym/exercise,1
+armchair,kitchen,1
+desk,workout/gym/exercise,1
+dresser,closet,1
+desk,laundryroom,1
+mirror,utilityroom,1
+bed,closet,1
+picture,bedroom,1
+sink,bedroom,1
+mirror,lounge,1
+board,hallway,1
+appliance,garage,1
+appliance,bedroom,1
+whiteboard,kitchen,1
+whiteboard,closet,1
+mirror,toilet,1
+whiteboard,lounge,1
+curtain,bedroom,1
+counter,living room,1
+nightstand,workout/gym/exercise,1
+plant,hallway,1
+plant,stairs,1
+desk,stairs,1
+refrigerator,toilet,1
+bed,kitchen,1
+board,bathroom,1
+mirror,stairs,1
+cabinet,lounge,1
+bookcase,office,1
+counter,closet,1
+towel,toilet,1
+clothes,bedroom,1
+table,utilityroom,1
+refrigerator,kitchen,1
+toilet,bathroom,1
+nightstand,utilityroom,1
+desk,hallway,1
+cabinet,hallway,1
+table,lounge,1
+cabinet,stairs,1
+armchair,bedroom,1
+towel,kitchen,1
+dresser,garage,1
+towel,lounge,1
+table,toilet,1
+desk,garage,1
+counter,kitchen,1
+board,office,1
+plant,bathroom,1
+television,bedroom,1
+desk,bathroom,1
+cabinet,bathroom,1
+curtain,utilityroom,1
+window,utilityroom,1
+table,stairs,1
+desk,office,1
+mirror,bathroom,1
+books,dining room,1
+window,lounge,1
+bookcase,utilityroom,1
+nightstand,hallway,1
+mirror,office,1
+nightstand,stairs,1
+sink,hallway,1
+picture,workout/gym/exercise,1
+window,toilet,1
+sink,workout/gym/exercise,1
+books,living room,1
+dresser,bedroom,1
+nightstand,garage,1
+bathtub,living room,1
+nightstand,bathroom,1
+curtain,hallway,1
+mirror,dining room,1
+table,hallway,1
+nightstand,office,1
+cabinet,office,1
+sink,bathroom,1
+sofa,garage,1
+curtain,workout/gym/exercise,1
+cushion,bedroom,1
+clothes,toilet,1
+plant,office,1
+cabinet,living room,1
+chair,bedroom,1
+picture,hallway,1
+picture,stairs,1
+board,lounge,1
+bookcase,lounge,1
+table,bathroom,1
+cabinet,dining room,1
+bed,bedroom,1
+appliance,hallway,1
+clothes,workout/gym/exercise,1
+appliance,stairs,1
+books,laundryroom,1
+toilet,closet,1
+books,kitchen,1
+books,closet,1
+whiteboard,bedroom,1
+armchair,workout/gym/exercise,1
+sofa,bedroom,1
+bathtub,kitchen,1
+dresser,utilityroom,1
+refrigerator,dining room,1
+curtain,bathroom,1
+window,bathroom,1
+television,hallway,1
+board,kitchen,1
+mirror,living room,1
+window,office,1
+board,closet,1
+desk,utilityroom,1
+towel,dining room,1
+television,workout/gym/exercise,1
+clothes,hallway,1
+counter,bedroom,1
+clothes,stairs,1
+cabinet,closet,1
+plant,lounge,1
+table,office,1
+refrigerator,living room,1
+desk,lounge,1
+picture,garage,1
+mirror,closet,1
+chair,utilityroom,1
+picture,bathroom,1
+television,bathroom,1
+towel,living room,1
+desk,toilet,1
+window,dining room,1
+chair,laundryroom,1
+appliance,bathroom,1
+appliance,office,1
+dresser,workout/gym/exercise,1
+dresser,laundryroom,1
+curtain,office,1
+window,living room,1
+nightstand,lounge,1
+chair,hallway,1
+chair,stairs,1
+plant,kitchen,1
+cushion,workout/gym/exercise,1
+table,living room,1
+chair,workout/gym/exercise,1
+mirror,kitchen,1
+nightstand,toilet,1
+bookcase,living room,1
+sink,toilet,1
+bed,hallway,1
+clothes,bathroom,1
+dresser,hallway,1
+chair,bathroom,1
+dresser,stairs,1
+bed,workout/gym/exercise,1
+bookcase,dining room,1
+whiteboard,hallway,1
+towel,closet,1
+whiteboard,stairs,1
+counter,laundryroom,1
+cabinet,kitchen,1
+sofa,hallway,1
+dresser,bathroom,1
+sofa,stairs,1
+cushion,hallway,1
+sink,kitchen,1
+books,bedroom,1
+sofa,workout/gym/exercise,1
+clothes,dining room,1
+toilet,bedroom,1
+whiteboard,garage,1
+cushion,bathroom,1
+window,closet,1
+television,office,1
+board,bedroom,1
+bathtub,bedroom,1
+table,kitchen,1
+table,closet,1
+clothes,living room,1
+bookcase,closet,1
+picture,utilityroom,1
+board,dining room,1
+bed,bathroom,1
+picture,lounge,1
+desk,dining room,1
+sink,lounge,1
+dresser,office,1
+board,living room,1
+appliance,lounge,1
+picture,toilet,1
+refrigerator,garage,1
+sofa,bathroom,1
+curtain,kitchen,1
+window,kitchen,1
+counter,hallway,1
+curtain,lounge,1
+cushion,office,1
+bookcase,kitchen,1
+appliance,toilet,1
+chair,office,1
+towel,garage,1
+cabinet,bedroom,1
+nightstand,dining room,1
+books,workout/gym/exercise,1
+mirror,bedroom,1
+counter,garage,1
+bed,office,1
+plant,dining room,1
+television,kitchen,1
+clothes,lounge,1
+counter,office,1
+cushion,dining room,1
+refrigerator,bedroom,1
+appliance,kitchen,1
+plant,living room,1
+desk,living room,1
+armchair,lounge,1
+sofa,office,1
+cushion,living room,1
+chair,toilet,1
+books,stairs,1
+desk,closet,1
+toilet,workout/gym/exercise,1
+dresser,toilet,1
+television,lounge,1
+bathtub,workout/gym/exercise,1
+sofa,dining room,1
+armchair,hallway,1
+armchair,stairs,1
+window,bedroom,1
+table,bedroom,1
+nightstand,living room,1
+whiteboard,toilet,1
+sink,living room,1
+books,hallway,1
+towel,bedroom,1
+table,dining room,1
+dresser,kitchen,1
+cabinet,laundryroom,1
+mirror,workout/gym/exercise,1
+nightstand,closet,1
+dresser,lounge,1
+whiteboard,utilityroom,1
+mirror,laundryroom,1
+bed,toilet,1
+desk,kitchen,1
+refrigerator,workout/gym/exercise,1
+toilet,garage,1
+whiteboard,workout/gym/exercise,1
+cushion,closet,1
+books,garage,1
+chair,kitchen,1
+appliance,dining room,1
+cushion,lounge,1
+books,bathroom,1
+chair,lounge,1
+bathtub,garage,1
+sofa,closet,1
+picture,office,1
+bathtub,bathroom,1
+curtain,dining room,1
+cabinet,workout/gym/exercise,1
+board,garage,1
+picture,living room,1
+bookcase,bedroom,1
+toilet,hallway,1
+counter,utilityroom,1
+bed,lounge,1
+armchair,bathroom,1
+nightstand,kitchen,1
+armchair,office,1
+counter,lounge,1
+curtain,living room,1
+bathtub,hallway,1
+picture,dining room,1
+sink,closet,1
+table,workout/gym/exercise,1
+sofa,kitchen,1
+sofa,lounge,1
+table,laundryroom,1
+whiteboard,bathroom,1
+toilet,office,1
+towel,workout/gym/exercise,1
+books,office,1
+mirror,hallway,1
+armchair,dining room,1
+towel,laundryroom,1
+television,living room,1
+cabinet,garage,1
+refrigerator,hallway,1
+plant,bedroom,1
+desk,bedroom,1
+window,workout/gym/exercise,1
+armchair,living room,1
+television,dining room,1
+mirror,garage,1
+picture,closet,1
+towel,hallway,1
+curtain,closet,1
+refrigerator,bathroom,1
+refrigerator,office,1
+bookcase,laundryroom,1
+whiteboard,office,1

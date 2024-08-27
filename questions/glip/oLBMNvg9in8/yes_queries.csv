@@ -1,0 +1,305 @@
+Object,Room,Answer
+curtain,no label,1
+window,no label,1
+towel,lounge,1
+towel,bathroom,1
+bathtub,no label,1
+books,stairs,1
+nightstand,lounge,1
+table,toilet,1
+dresser,dining room,1
+refrigerator,other room,1
+chair,hallway,1
+chair,stairs,1
+books,utilityroom,1
+sofa,utilityroom,1
+picture,kitchen,1
+board,no label,1
+sink,laundryroom,1
+counter,kitchen,1
+bookcase,familyroom,1
+appliance,laundryroom,1
+toilet,laundryroom,1
+dresser,toilet,1
+television,lounge,1
+plant,bathroom,1
+television,bedroom,1
+books,lounge,1
+desk,bathroom,1
+cabinet,bathroom,1
+bookcase,hallway,1
+window,utilityroom,1
+refrigerator,laundryroom,1
+towel,other room,1
+bed,familyroom,1
+clothes,kitchen,1
+toilet,dining room,1
+bookcase,stairs,1
+whiteboard,laundryroom,1
+table,stairs,1
+desk,office,1
+nightstand,toilet,1
+mirror,bathroom,1
+picture,no label,1
+picture,familyroom,1
+counter,no label,1
+bed,hallway,1
+window,lounge,1
+clothes,bathroom,1
+bookcase,utilityroom,1
+armchair,hallway,1
+whiteboard,dining room,1
+window,bedroom,1
+dresser,other room,1
+chair,dining room,1
+toilet,toilet,1
+table,bedroom,1
+mirror,office,1
+nightstand,hallway,1
+nightstand,stairs,1
+television,no label,1
+bathtub,dining room,1
+books,toilet,1
+bed,utilityroom,1
+clothes,familyroom,1
+dresser,hallway,1
+chair,bathroom,1
+sink,stairs,1
+dresser,stairs,1
+whiteboard,toilet,1
+refrigerator,familyroom,1
+sink,hallway,1
+bed,stairs,1
+appliance,no label,1
+whiteboard,familyroom,1
+bookcase,dining room,1
+bathtub,toilet,1
+books,hallway,1
+window,toilet,1
+towel,bedroom,1
+table,dining room,1
+refrigerator,no label,1
+whiteboard,hallway,1
+nightstand,bedroom,1
+dresser,kitchen,1
+whiteboard,stairs,1
+cabinet,laundryroom,1
+clothes,utilityroom,1
+bed,dining room,1
+dresser,lounge,1
+window,hallway,1
+sofa,hallway,1
+dresser,bathroom,1
+dresser,bedroom,1
+chair,other room,1
+sofa,stairs,1
+whiteboard,utilityroom,1
+window,other room,1
+cabinet,kitchen,1
+toilet,stairs,1
+mirror,laundryroom,1
+counter,dining room,1
+clothes,laundryroom,1
+nightstand,bathroom,1
+towel,no label,1
+curtain,hallway,1
+appliance,utilityroom,1
+desk,kitchen,1
+books,bedroom,1
+curtain,stairs,1
+mirror,dining room,1
+window,stairs,1
+table,hallway,1
+picture,laundryroom,1
+bathtub,laundryroom,1
+cabinet,office,1
+cabinet,toilet,1
+refrigerator,utilityroom,1
+clothes,dining room,1
+bathtub,stairs,1
+cushion,kitchen,1
+sink,bathroom,1
+bookcase,other room,1
+cabinet,familyroom,1
+desk,familyroom,1
+toilet,lounge,1
+table,other room,1
+armchair,stairs,1
+counter,familyroom,1
+chair,kitchen,1
+cushion,lounge,1
+board,utilityroom,1
+books,bathroom,1
+cushion,bedroom,1
+mirror,familyroom,1
+clothes,toilet,1
+desk,no label,1
+cabinet,no label,1
+television,office,1
+chair,lounge,1
+picture,office,1
+chair,bedroom,1
+plant,familyroom,1
+counter,bathroom,1
+bathtub,lounge,1
+board,bedroom,1
+mirror,no label,1
+bathtub,bathroom,1
+bathtub,bedroom,1
+cabinet,utilityroom,1
+clothes,no label,1
+table,kitchen,1
+picture,hallway,1
+picture,stairs,1
+board,lounge,1
+bookcase,lounge,1
+counter,stairs,1
+bookcase,bathroom,1
+bookcase,bedroom,1
+armchair,kitchen,1
+curtain,toilet,1
+table,bathroom,1
+toilet,hallway,1
+chair,no label,1
+whiteboard,other room,1
+television,utilityroom,1
+picture,utilityroom,1
+board,dining room,1
+counter,utilityroom,1
+bed,lounge,1
+cabinet,dining room,1
+armchair,bathroom,1
+bed,bedroom,1
+bed,bathroom,1
+desk,laundryroom,1
+mirror,utilityroom,1
+appliance,hallway,1
+picture,lounge,1
+appliance,stairs,1
+armchair,office,1
+nightstand,kitchen,1
+counter,lounge,1
+picture,bedroom,1
+board,toilet,1
+books,laundryroom,1
+desk,dining room,1
+bathtub,hallway,1
+towel,familyroom,1
+sink,lounge,1
+refrigerator,stairs,1
+nightstand,familyroom,1
+mirror,lounge,1
+picture,dining room,1
+dresser,office,1
+board,hallway,1
+board,stairs,1
+nightstand,no label,1
+books,kitchen,1
+appliance,lounge,1
+whiteboard,bedroom,1
+picture,toilet,1
+appliance,bedroom,1
+television,laundryroom,1
+counter,toilet,1
+towel,stairs,1
+refrigerator,lounge,1
+sofa,lounge,1
+sofa,bathroom,1
+sofa,bedroom,1
+curtain,kitchen,1
+mirror,toilet,1
+whiteboard,lounge,1
+window,kitchen,1
+television,toilet,1
+whiteboard,bathroom,1
+mirror,other room,1
+armchair,laundryroom,1
+counter,hallway,1
+books,no label,1
+refrigerator,dining room,1
+curtain,lounge,1
+dresser,utilityroom,1
+cushion,office,1
+window,bathroom,1
+books,office,1
+bookcase,kitchen,1
+mirror,hallway,1
+whiteboard,no label,1
+plant,hallway,1
+television,hallway,1
+picture,other room,1
+appliance,toilet,1
+television,stairs,1
+board,kitchen,1
+desk,stairs,1
+chair,office,1
+window,office,1
+towel,laundryroom,1
+clothes,other room,1
+table,familyroom,1
+cabinet,lounge,1
+mirror,stairs,1
+desk,utilityroom,1
+cabinet,bedroom,1
+clothes,hallway,1
+counter,bedroom,1
+nightstand,dining room,1
+clothes,stairs,1
+refrigerator,hallway,1
+table,no label,1
+bookcase,office,1
+cushion,utilityroom,1
+plant,lounge,1
+mirror,bedroom,1
+table,office,1
+desk,lounge,1
+plant,bedroom,1
+desk,bedroom,1
+towel,toilet,1
+armchair,no label,1
+bed,no label,1
+bed,office,1
+picture,bathroom,1
+towel,kitchen,1
+television,dining room,1
+television,kitchen,1
+clothes,lounge,1
+towel,hallway,1
+window,laundryroom,1
+clothes,bedroom,1
+dresser,no label,1
+counter,office,1
+television,bathroom,1
+refrigerator,bedroom,1
+dresser,familyroom,1
+appliance,kitchen,1
+cushion,dining room,1
+desk,toilet,1
+table,utilityroom,1
+window,dining room,1
+cabinet,other room,1
+refrigerator,kitchen,1
+chair,laundryroom,1
+appliance,bathroom,1
+toilet,bathroom,1
+table,lounge,1
+desk,hallway,1
+cabinet,hallway,1
+refrigerator,bathroom,1
+nightstand,utilityroom,1
+cabinet,stairs,1
+sofa,no label,1
+appliance,familyroom,1
+window,familyroom,1
+plant,other room,1
+armchair,lounge,1
+television,other room,1
+sofa,office,1
+desk,other room,1
+cushion,no label,1
+armchair,bedroom,1
+bookcase,laundryroom,1
+counter,other room,1
+whiteboard,office,1
+sofa,familyroom,1
+dresser,laundryroom,1

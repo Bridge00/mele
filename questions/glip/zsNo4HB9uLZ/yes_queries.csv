@@ -1,0 +1,244 @@
+Object,Room,Answer
+bookcase,laundryroom,1
+mirror,kitchen,1
+mirror,familyroom,1
+bookcase,bedroom,1
+counter,hallway,1
+bed,hallway,1
+cushion,hallway,1
+nightstand,kitchen,1
+counter,laundryroom,1
+bed,laundryroom,1
+cabinet,bathroom,1
+toilet,toilet,1
+picture,kitchen,1
+desk,dining room,1
+counter,bedroom,1
+dresser,bathroom,1
+nightstand,toilet,1
+whiteboard,office,1
+bed,living room,1
+appliance,hallway,1
+mirror,closet,1
+board,kitchen,1
+counter,entryway/foyer/lobby,1
+bathtub,entryway/foyer/lobby,1
+bathtub,closet,1
+mirror,laundryroom,1
+picture,bedroom,1
+bookcase,dining room,1
+chair,bedroom,1
+plant,kitchen,1
+board,living room,1
+plant,familyroom,1
+picture,entryway/foyer/lobby,1
+television,office,1
+dresser,toilet,1
+toilet,living room,1
+sink,bedroom,1
+board,hallway,1
+table,office,1
+whiteboard,familyroom,1
+sofa,laundryroom,1
+books,familyroom,1
+board,laundryroom,1
+counter,dining room,1
+whiteboard,kitchen,1
+toilet,hallway,1
+sofa,living room,1
+bathtub,dining room,1
+curtain,kitchen,1
+curtain,familyroom,1
+window,familyroom,1
+armchair,living room,1
+plant,entryway/foyer/lobby,1
+window,kitchen,1
+appliance,bathroom,1
+armchair,hallway,1
+cabinet,hallway,1
+whiteboard,entryway/foyer/lobby,1
+television,familyroom,1
+whiteboard,closet,1
+window,bedroom,1
+clothes,bathroom,1
+whiteboard,laundryroom,1
+window,entryway/foyer/lobby,1
+television,toilet,1
+books,laundryroom,1
+counter,familyroom,1
+picture,dining room,1
+curtain,closet,1
+cushion,closet,1
+table,toilet,1
+books,bedroom,1
+curtain,laundryroom,1
+cushion,laundryroom,1
+appliance,kitchen,1
+armchair,office,1
+cabinet,office,1
+appliance,familyroom,1
+dresser,office,1
+bookcase,bathroom,1
+television,hallway,1
+television,laundryroom,1
+desk,bathroom,1
+television,living room,1
+table,living room,1
+appliance,entryway/foyer/lobby,1
+bed,bedroom,1
+sink,hallway,1
+picture,living room,1
+sofa,kitchen,1
+sofa,familyroom,1
+board,familyroom,1
+window,dining room,1
+table,hallway,1
+cabinet,kitchen,1
+mirror,entryway/foyer/lobby,1
+bathtub,bedroom,1
+nightstand,closet,1
+desk,toilet,1
+clothes,closet,1
+nightstand,hallway,1
+mirror,bedroom,1
+clothes,hallway,1
+chair,office,1
+board,bedroom,1
+counter,bathroom,1
+board,entryway/foyer/lobby,1
+bathtub,bathroom,1
+toilet,bedroom,1
+armchair,familyroom,1
+nightstand,bedroom,1
+bed,dining room,1
+plant,laundryroom,1
+sofa,bedroom,1
+picture,office,1
+picture,bathroom,1
+bookcase,hallway,1
+dresser,hallway,1
+refrigerator,bedroom,1
+dresser,laundryroom,1
+sink,bathroom,1
+dresser,living room,1
+whiteboard,bedroom,1
+mirror,dining room,1
+board,dining room,1
+bookcase,living room,1
+towel,kitchen,1
+plant,bathroom,1
+television,kitchen,1
+mirror,toilet,1
+nightstand,dining room,1
+whiteboard,bathroom,1
+sofa,dining room,1
+desk,office,1
+window,bathroom,1
+towel,hallway,1
+curtain,bedroom,1
+cushion,bedroom,1
+picture,toilet,1
+bathtub,hallway,1
+bookcase,office,1
+mirror,living room,1
+chair,living room,1
+table,laundryroom,1
+television,bedroom,1
+chair,hallway,1
+table,bedroom,1
+whiteboard,dining room,1
+appliance,closet,1
+desk,familyroom,1
+plant,toilet,1
+counter,office,1
+table,entryway/foyer/lobby,1
+cushion,bathroom,1
+cabinet,familyroom,1
+whiteboard,toilet,1
+appliance,laundryroom,1
+books,toilet,1
+nightstand,entryway/foyer/lobby,1
+bookcase,kitchen,1
+dresser,familyroom,1
+dresser,kitchen,1
+refrigerator,hallway,1
+bed,bathroom,1
+clothes,laundryroom,1
+television,dining room,1
+desk,closet,1
+books,hallway,1
+table,dining room,1
+clothes,bedroom,1
+desk,hallway,1
+desk,laundryroom,1
+books,living room,1
+plant,bedroom,1
+cabinet,laundryroom,1
+desk,living room,1
+mirror,bathroom,1
+board,bathroom,1
+refrigerator,office,1
+curtain,living room,1
+cabinet,bedroom,1
+armchair,bedroom,1
+toilet,bathroom,1
+dresser,bedroom,1
+towel,familyroom,1
+dresser,entryway/foyer/lobby,1
+sink,kitchen,1
+sofa,bathroom,1
+table,kitchen,1
+table,familyroom,1
+picture,familyroom,1
+plant,dining room,1
+counter,living room,1
+chair,familyroom,1
+window,office,1
+mirror,hallway,1
+television,entryway/foyer/lobby,1
+cabinet,dining room,1
+towel,closet,1
+dresser,dining room,1
+board,toilet,1
+bathtub,laundryroom,1
+towel,laundryroom,1
+picture,closet,1
+sink,laundryroom,1
+refrigerator,kitchen,1
+refrigerator,familyroom,1
+picture,hallway,1
+nightstand,living room,1
+towel,bedroom,1
+appliance,bedroom,1
+picture,laundryroom,1
+bed,office,1
+refrigerator,laundryroom,1
+curtain,bathroom,1
+books,kitchen,1
+plant,living room,1
+desk,kitchen,1
+bathtub,office,1
+towel,bathroom,1
+television,bathroom,1
+plant,hallway,1
+whiteboard,living room,1
+bookcase,familyroom,1
+sofa,hallway,1
+refrigerator,closet,1
+table,bathroom,1
+chair,dining room,1
+whiteboard,hallway,1
+desk,entryway/foyer/lobby,1
+nightstand,office,1
+nightstand,bathroom,1
+bed,familyroom,1
+window,hallway,1
+curtain,hallway,1
+bookcase,entryway/foyer/lobby,1
+sofa,office,1
+counter,kitchen,1
+window,laundryroom,1
+dresser,closet,1
+desk,bedroom,1
+refrigerator,dining room,1
+window,living room,1
