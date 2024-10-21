@@ -1,3 +1,2 @@
-# CAM-embodied-llm
+# Multi-LLM QA with Embodied Exploration
 
-CAM
